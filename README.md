@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<script src="https://gist.github.com/Dahventura/cb776a9c2f34936636371fe979440656.js"></script>
-
-<!--
 **Dahventura/Dahventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
